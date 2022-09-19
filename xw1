@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style type="text/css">
+        table {
+            width: 1500px;
+            height: 700px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <table border="2">
+        <tr>
+            <td>html5段落</td>
+            <td>
+                <p>我的第一个段落</p>
+            </td>
+            <td>html5标题</td>
+            <td>
+                <h1>我的第一个标题</h1>
+            </td>
+        </tr>
+        <tr>
+            <td>html5一级标题</td>
+            <td>
+                <h1>这是一个一级标题</h1>
+            </td>
+            <td>html5二级标题</td>
+            <td>
+                <h2>这是一个二级标题</h2>
+            </td>
+        </tr>
+        <tr>
+            <td>html5三级标题</td>
+            <td>
+                <h3>这是一个三级标题</h3>
+            </td>
+            <td>html5四级标题</td>
+            <td>
+                <h4>这是一个四级标题</h4>
+            </td>
+        </tr>
+        <tr>
+            <td>html5五级标题</td>
+            <td>
+                <h5>这是一个五级标题</h5>
+            </td>
+            <td>html六五级标题</td>
+            <td>
+                <h6>这是一个六级标题</h6>
+            </td>
+        </tr>
+        <tr>
+            <td>html链接</td>
+            <td>这是一个链接<a href="baidu.com">百度</a></td>
+            <td>html图片</td>
+            <td>这是一个图片<img src="OIP-C.jpg"></td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
